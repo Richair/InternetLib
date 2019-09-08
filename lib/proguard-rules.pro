@@ -518,8 +518,4 @@ public void xxxxxx(**);
 
 
 
-#科大讯飞
-#由*	jp1017*贡献混淆代码
-#作者Github地址：hhttps://github.com/jp1017
--keep class com.iflytek.**{*;}
 
